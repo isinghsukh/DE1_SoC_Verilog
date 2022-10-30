@@ -1,6 +1,6 @@
 # DE1_SoC_Verilog
-# Folder Consist of 4 labs and each lab have various projects. 
-# Each folder have its Lab report ready 
+ Folder Consist of 4 labs and each lab have various projects. 
+ Each folder have its Lab report ready 
 
 Lab #1 Projects
 1.3- Mux 4 to 1 Circuit
