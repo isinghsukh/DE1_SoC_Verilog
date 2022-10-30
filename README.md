@@ -14,4 +14,4 @@ Lab #2 Projects
 1.2- Sea Tac Traffic Hazard lights
 2.1- Tug of War Player vs Player
 3.1- Tug of Was Player vs Bot
-   - Consist of 3 bit Up Counter, 10 bit LFSR and 10 bit Comparator
+   - Consist of 3 bit Up Counter, 10 bit LFSR and 10-bit Comparator
