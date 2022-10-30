@@ -1,4 +1,4 @@
-# DE1_SoC_Verilog
+# DE1_SoC_System_Verilog
  Folder Consist of 4 labs and each lab have various projects. 
  Each folder have its Lab report ready 
 
